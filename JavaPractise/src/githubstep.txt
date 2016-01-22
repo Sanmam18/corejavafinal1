@@ -1,4 +1,4 @@
 step1= make a project in eclips
 step2= save in github workspace
 step3 = chang  in locally and commit to the master
-step4 = syncying the code and publish it
+step4 = syncying the code and publish it 
