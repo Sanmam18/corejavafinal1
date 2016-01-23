@@ -11,4 +11,9 @@ public class ArrayCopy {
 
 	}
 
+	public Object ArrayCopy() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
